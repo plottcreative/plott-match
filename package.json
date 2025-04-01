@@ -1,0 +1,25 @@
+{
+  "name": "plott-match",
+  "version": "1.0.4",
+  "description": "Vanilla Match Height - Built by PLOTT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ashley-plott@github.com/plottcreative/plott-match.git"
+  },
+  "keywords": [
+    "Match",
+    "Height",
+    "Vanilla",
+    "JS"
+  ],
+  "author": "Ashley Armstrong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plottcreative/plott-match/issues"
+  },
+  "homepage": "https://github.com/plottcreative/plott-match#readme"
+}
